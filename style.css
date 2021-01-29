@@ -21,3 +21,10 @@ p {
   font-size: 21px;
   color: gray;
 }
+.phoneIcon {
+  margin-top: 20px;
+}
+.copyright {
+  text-align: right;
+  color: gray;
+}
